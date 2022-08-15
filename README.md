@@ -10,5 +10,5 @@
 
 ## Available endpoints :
 
-"/add" : This endpoint will be used to add numbers 
-"/sample10" : This endpoint will be used to sample 10 random numbers
+- "/add" : This endpoint will be used to add numbers 
+- "/sample10" : This endpoint will be used to sample 10 random numbers
